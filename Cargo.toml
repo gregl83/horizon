@@ -7,3 +7,4 @@ description = "Horizon is a high performance Journal"
 license = "MIT"
 
 [dependencies]
+capnp = "0.10.3"
